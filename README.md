@@ -29,3 +29,5 @@ The algorithms AltMinLowRaP and AltMinTrunc (LRPR2) implementations are availabl
 AltMinLowRaP: https://github.com/soominkwon/Provable-Low-Rank-Phase-Retrieval 
 
 AltMinTrunc: https://github.com/soominkwon/Low-Rank-Phase-Retrieval
+
+A live reconstruction of the videos from TSPR is available: https://github.com/soominkwon/Tucker-Structured-Phase-Retrieval/tree/main/Video_Results
