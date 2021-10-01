@@ -20,9 +20,8 @@ The following is a list of which algorithms correspond to which Python script:
 
 
 ## Solution Example
-<p align="center">
-  <a href="url"><img src="https://github.com/soominkwon/Tucker-Structured-Phase-Retrieval/Video_Results/plane_recovery.gif" align="left" height="300" width="300" ></a>
-</p>
+
+![plane_recovery](https://user-images.githubusercontent.com/43144680/135666576-7c6764b7-7d87-40f3-80b4-bdc08413e272.gif)
 
 ## Comments
 The algorithms AltMinLowRaP and AltMinTrunc (LRPR2) implementations are available in a different repository:
