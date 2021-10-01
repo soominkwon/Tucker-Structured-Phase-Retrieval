@@ -1,6 +1,8 @@
 # Tucker-Structured-Phase-Retrieval
 
-Tucker-Structured Phase Retrieval (TSPR) is an algorithm that can recover a tensor from phase-less linear measurements of its frontal slices. This algorithm factorizes the tensor using the Tucker decomposition and solves for the Tucker factors using conjugate gradient least squares. The implementation details are available here: https://soominkwon.github.io/Publications/Papers/ICASSP_Supplementary_Materials.pdf
+Tucker-Structured Phase Retrieval (TSPR) is an algorithm that can recover a tensor from phase-less linear measurements of its frontal slices. This algorithm factorizes the tensor using the Tucker decomposition and solves for the Tucker factors using conjugate gradient least squares.
+
+The implementation details are available here: https://soominkwon.github.io/Publications/Papers/ICASSP_Supplementary_Materials.pdf
 
 For more information about TSPR:
 
@@ -57,3 +59,10 @@ plt.show()
 <p align="center">
   <a href="url"><img src="https://github.com/soominkwon/Tucker-Structured-Phase-Retrieval/Video_Results/plane_recovery.mp4" align="left" height="300" width="300" ></a>
 </p>
+
+## Comments
+The algorithms AltMinLowRaP and AltMinTrunc (LRPR2) implementations are available in a different repository:
+
+AltMinLowRaP: https://github.com/soominkwon/Provable-Low-Rank-Phase-Retrieval 
+
+AltMinTrunc: https://github.com/soominkwon/Low-Rank-Phase-Retrieval
