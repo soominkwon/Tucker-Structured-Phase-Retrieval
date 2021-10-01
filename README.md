@@ -55,5 +55,5 @@ plt.show()
 
 ## Solution Example
 <p align="center">
-  <a href="url"><img src="https://github.com/soominkwon/Tucker-Structured-Low-Rank-Phase-Retrieval/blob/main/tucker_sample_results.png" align="left" height="300" width="300" ></a>
+  <a href="url"><img src="https://github.com/soominkwon/Tucker-Structured-Phase-Retrieval/Video_Results/plane_recovery.mp4" align="left" height="300" width="300" ></a>
 </p>
