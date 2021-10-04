@@ -23,6 +23,9 @@ The following is a list of which algorithms correspond to which Python script:
 
 ![plane_recovery](https://user-images.githubusercontent.com/43144680/135666576-7c6764b7-7d87-40f3-80b4-bdc08413e272.gif)
 
+![mouse_recovery](https://user-images.githubusercontent.com/43144680/135897599-ee760697-bf87-4c23-9c7c-b9af312d6eb6.gif)
+
+
 ## Comments
 The algorithms AltMinLowRaP and AltMinTrunc (LRPR2) implementations are available in a different repository:
 
